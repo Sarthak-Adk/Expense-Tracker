@@ -1,0 +1,36 @@
+body {
+  background-color: #fdfdfd;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h2 {
+  color: #333;
+  font-weight: 600;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+}
+
+.btn-danger {
+  border: none;
+  background-color: #dc3545;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+}
